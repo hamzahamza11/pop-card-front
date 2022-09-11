@@ -1,0 +1,151 @@
+.component4-container {
+  width: 303.991455078125px;
+  height: 121.98863220214844px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component4-container01 {
+  flex: 0 0 auto;
+ 
+  bottom: 0px;
+  height: 122px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 25px;
+  background-color: #ffffff;
+}
+.component4-image {
+  width: auto;
+  align-self: center;
+  margin-top: 20px;
+  object-fit: cover;
+  margin-left: 30px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.component4-container02 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.component4-container03 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.component4-container04 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.component4-container05 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.component4-text {
+  align-self: flex-start;
+  margin-top: 30px;
+}
+.component4-text1 {
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  margin-top: 15px;
+  font-weight: 700;
+}
+.component4-container06 {
+  top: -1px;
+  flex: 0 0 auto;
+  right: -336px;
+  width: 304px;
+  height: 122px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 25px;
+  background-color: #ffffff;
+}
+.component4-image1 {
+  width: auto;
+  align-self: center;
+  margin-top: 20px;
+  object-fit: cover;
+  margin-left: 30px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.component4-container07 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.component4-container08 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.component4-container09 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.component4-container10 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.component4-text2 {
+  align-self: flex-start;
+  margin-top: 30px;
+}
+.component4-text3 {
+  font-size: 20px;
+  align-self: flex-start;
+  font-style: normal;
+  margin-top: 15px;
+  font-weight: 700;
+}
+.component4-root-class-name {
+  top: 257.9971618652344px;
+  left: 371.9886169433594px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .component4-container01 {
+    width: 349px;
+    justify-content: flex-start;
+  }
+  .component4-container06 {
+    width: 349px;
+    justify-content: flex-start;
+  }
+}
